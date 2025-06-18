@@ -1,7 +1,7 @@
 # planstsmart
 Plantsmart
 Filipe Bora 
-Guilherme amoria
+Guilherme amorim
 Pedro rocha
 Daniel Alves
 Rafael caetano
